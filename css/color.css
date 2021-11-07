@@ -1,0 +1,46 @@
+.bg-danger{
+    background-color: #c0392b !important;
+}
+.bg-s-danger{
+    background-color: #cd4a3c !important;
+}
+
+.bg-success{
+    background-color: #27ae60 !important;
+}
+
+.bg-s-success{
+    background-color: #4ec982 !important;
+}
+
+.bg-primary{
+    background-color: #00a5ba !important;
+}
+
+.bg-s-primary{
+    background-color: #3ec1d2 !important;
+}
+
+.bg-pink{
+    background-color: #cd1a57 !important;
+}
+
+.bg-s-pink{
+    background-color: #d9316b !important;
+}
+
+.text-sitemap{
+    color: #3ec1d2;
+}
+
+.text-cap{
+    color: #00baa2;
+}
+
+.text-users{
+    color: #ff4e00;
+}
+
+.text-news{
+    color: #7aab41;
+}
